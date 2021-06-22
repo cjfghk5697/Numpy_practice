@@ -1,2 +1,2 @@
 # Numpy_practice
-Numpy Styudy
+Numpy Study
