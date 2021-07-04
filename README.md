@@ -1,5 +1,8 @@
 # Numpy_practice
 
+![image](https://user-images.githubusercontent.com/80466735/124397103-d5d7b700-dd48-11eb-8e8f-b8b41fedbadd.png)
+
+
 # 계기
 동빈나 강의와 밑바닥부터 시작하는 딥러닝에 영향을 받아 numpy 라이브러리 공부를 시작했다. 전에 forecastsolar 레포짓을 보면 정말 형편 없다. <br> 배열 구조를 바꿔서 효율울 높이는 논문을 읽어도 활용을 못했다. 그래서 넘파이 라이브러리에 더욱 집착하게 된 것도 있다.
 
