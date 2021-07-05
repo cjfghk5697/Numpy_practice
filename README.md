@@ -9,13 +9,14 @@
 # 파일 보는법
 
 basicfunction<br>
-├── basicfunction1.html<br>
-├── basicfunction2.html<br>
-└── basicfunction3.html<br>
+├── basicfunction1.ipynb<br>
+├── basicfunction2.ipynb<br>
+└── basicfunction3.ipynb<br>
 prctice<br>
-├── practice1.tff<br>
-├── practice2.tff<br>
-└── practice3.tff<br>
+├── practice1.ipynb<br>
+├── practice2.ipynb<br>
+└── practice3.ipynb<br>
+image<br>
  
 basicfunction 파일 안에는 기본 함수 사용과 예제가 있다. practice파일에는 내가 직접 만든 문제들이 있다. pracice1을 풀기 위해 basicfunction을 한번 보면된다.
 
